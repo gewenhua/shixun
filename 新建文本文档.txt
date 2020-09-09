@@ -1,0 +1,25 @@
+boot cloud actMQ rabbitmq redis ,   btob ,  could 微服务架构    MySQL数据库。web端，移动端，主要是有前后端分离的，
+
+
+ik分词器的原理  
+
+工作主要负责哪些模块（必须了解自己的项目）
+
+订单追踪
+	对应接口
+http接口，通过http clomd的调用
+
+项目中的高可用
+
+
+单表大数据量怎么加快查询效率
+
+mysql创建联合索引的时候
+
+
+
+
+RabbitMq   spring boot定时任务     springcloud   Nginx    fastDFS  ES   redis集群    索引  
+缓存 穿透 击穿 雪崩   单点登录  购物车    订单   分布式日志   分布式事务  主从复制，读写分离，分库分表
+网关  熔断     
+
